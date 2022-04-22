@@ -1,7 +1,6 @@
-# coding_for_employment_challenge
-This reposiory contains Faidika Self Help Group SME website for coding for employment challenge
+# Web Programming Project (For ClassWork)
 
-New ideas and contributions are welcome
+This repository contains a website project for classwork
 
 
 # Issues
